@@ -1,0 +1,14 @@
+[
+  {
+    "id": "node-1",
+    "remark": "US Free Node",
+    "config": "vmess://eyJhZGQiOiJ1c2EudGVzdC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWJjZC1lZmdoLWlqa2xtLW5vcHFyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IlVTIEZyZWUgTm9kZSIsInRscyI6IiIsInR5cGUiOiJub25lIn0=",
+    "protocol": "vmess"
+  },
+  {
+    "id": "node-2",
+    "remark": "Japan VLESS Node",
+    "config": "vless://abcdefg-1234-5678-90ab-cdef12345678@jp.example.com:443?encryption=none#Japan%20VLESS%20Node",
+    "protocol": "vless"
+  }
+]
