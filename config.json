@@ -1,14 +1,17 @@
 [
   {
-    "id": "node-1",
-    "remark": "US Free Node",
-    "config": "vmess://eyJhZGQiOiJ1c2EudGVzdC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWJjZC1lZmdoLWlqa2xtLW5vcHFyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IlVTIEZyZWUgTm9kZSIsInRscyI6IiIsInR5cGUiOiJub25lIn0=",
+    "remark": "🔰 | WorldWide Unlimited Daily",
+    "uri": "vmess:\/\/eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJpZCI6IjUyZGFjY2YwLTZiZWQtMTFmMC1iNDM5LTIwNWM2ZDVmNWQ3OCIsImhvc3QiOiJ4LmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii90eXB6aDQybSIsInBvcnQiOiI0NDMiLCJwcyI6IjQ0MyBWbWVzcyBVU0EgTEEgMjAyNS0wOC0wNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
     "protocol": "vmess"
   },
   {
-    "id": "node-2",
-    "remark": "Japan VLESS Node",
-    "config": "vless://abcdefg-1234-5678-90ab-cdef12345678@jp.example.com:443?encryption=none#Japan%20VLESS%20Node",
-    "protocol": "vless"
+    "remark": "🇯🇲  | Flow Unlimited Daily",
+    "uri": "vmess:\/\/eyJ0eXBlIjoibm9uZSIsInYiOiIyIiwiaG9zdCI6Ik91ci50b2RheSIsIm5ldCI6IndzIiwiZnAiOiJjaHJvbWUiLCJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImlkIjoiMzE5YzljNTAtNmIzYy0xMWYwLWIyMzktMjA1YzZkNWY1ZDc4Iiwic2VjdXJpdHkiOiJhdXRvIiwicGF0aCI6IndzczpcL1wvdXMtMjEuaGlodS5uZXRcL21wb3YxdGx1IiwicHMiOiIiLCJwb3J0IjoiODAiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWlkIjoiMCJ9",
+    "protocol": "vmess"
+  },
+  {
+    "remark": "🇯🇲  | Digicel 500MB Daily",
+    "uri": "vmess:\/\/eyJob3N0IjoicHJldmlld3MuYWRhLnN1cHBvcnQiLCJhaWQiOiIwIiwic2VjdXJpdHkiOiJhdXRvIiwicGF0aCI6IlwvdHlwemg0Mm0iLCJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImlkIjoiNTJkYWNjZjAtNmJlZC0xMWYwLWI0MzktMjA1YzZkNWY1ZDc4Iiwic25pIjoidXMtMjEuaGlodS5uZXQiLCJwcyI6IiIsImZwIjoiY2hyb21lIiwicG9ydCI6IjQ0MyIsInRscyI6InRscyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+    "protocol": "vmess"
   }
 ]
