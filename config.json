@@ -1,17 +1,17 @@
 [
   {
-    "remark": "🔰 | WorldWide Unlimited Daily",
-    "uri": "vmess:\/\/eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJpZCI6IjUyZGFjY2YwLTZiZWQtMTFmMC1iNDM5LTIwNWM2ZDVmNWQ3OCIsImhvc3QiOiJ4LmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii90eXB6aDQybSIsInBvcnQiOiI0NDMiLCJwcyI6IjQ0MyBWbWVzcyBVU0EgTEEgMjAyNS0wOC0wNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+    "remark": "🔰 | WorldWide Unlimited",
+    "uri": "vmess:\/\/eyJwYXRoIjoid3NzOlwvXC8xMDguMTgxLjEwLjE3XC90eXB6aDQybSIsInBzIjoiIiwicG9ydCI6IjgwIiwic25pIjoiIiwiYWRkIjoiMTA4LjE4MS4xMC4xNyIsImhvc3QiOiIxMDQuMTYuOS4yNyIsImlkIjoiNTJkYWNjZjAtNmJlZC0xMWYwLWI0MzktMjA1YzZkNWY1ZDc4Iiwic2VjdXJpdHkiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJuZXQiOiJ3cyIsInYiOiIyIiwidGxzIjoibm9uZSIsImFpZCI6IjAiLCJmcCI6ImNocm9tZSJ9",
     "protocol": "vmess"
   },
   {
     "remark": "🇯🇲  | Flow Unlimited Daily",
-    "uri": "vmess:\/\/eyJ0eXBlIjoibm9uZSIsInYiOiIyIiwiaG9zdCI6Ik91ci50b2RheSIsIm5ldCI6IndzIiwiZnAiOiJjaHJvbWUiLCJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImlkIjoiMzE5YzljNTAtNmIzYy0xMWYwLWIyMzktMjA1YzZkNWY1ZDc4Iiwic2VjdXJpdHkiOiJhdXRvIiwicGF0aCI6IndzczpcL1wvdXMtMjEuaGlodS5uZXRcL21wb3YxdGx1IiwicHMiOiIiLCJwb3J0IjoiODAiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWlkIjoiMCJ9",
+    "uri": "vmess:\/\/eyJwYXRoIjoid3NzOlwvXC8xMDguMTgxLjEwLjE3XC90eXB6aDQybSIsInBzIjoiIiwicG9ydCI6IjgwIiwic25pIjoiIiwiYWRkIjoiMTA4LjE4MS4xMC4xNyIsImhvc3QiOiIxMDQuMTYuOS4yNyIsImlkIjoiNTJkYWNjZjAtNmJlZC0xMWYwLWI0MzktMjA1YzZkNWY1ZDc4Iiwic2VjdXJpdHkiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJuZXQiOiJ3cyIsInYiOiIyIiwidGxzIjoibm9uZSIsImFpZCI6IjAiLCJmcCI6ImNocm9tZSJ9",
     "protocol": "vmess"
   },
   {
     "remark": "🇯🇲  | Digicel 500MB Daily",
-    "uri": "vmess:\/\/eyJob3N0IjoicHJldmlld3MuYWRhLnN1cHBvcnQiLCJhaWQiOiIwIiwic2VjdXJpdHkiOiJhdXRvIiwicGF0aCI6IlwvdHlwemg0Mm0iLCJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImlkIjoiNTJkYWNjZjAtNmJlZC0xMWYwLWI0MzktMjA1YzZkNWY1ZDc4Iiwic25pIjoidXMtMjEuaGlodS5uZXQiLCJwcyI6IiIsImZwIjoiY2hyb21lIiwicG9ydCI6IjQ0MyIsInRscyI6InRscyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-    "protocol": "vmess"
+    "uri": "vless:\/\/b25801ae-6c87-11f0-b37e-93457aa8d7c6@192.99.247.52:443?flow=&security=tls&encryption=none&type=ws&host=&path=\/vpnjantit&sni=api.digicelinternational.com&alpn=&fp=&pbk=&sid=&spx=#",
+    "protocol": "vless"
   }
 ]
